@@ -1,0 +1,49 @@
+{
+  "career":{
+    "info":"A position in IT seeking excellent analytical and problem solving skills"
+  },
+  "education":[
+    {
+      "degree":"B-Tech(Computer Science & Enginerring)",
+      "institute":"Siddarth Institute of Engineering & Technology",
+      "data":["2015-19","77%"]
+    },
+    {
+      "degree":"Intermediate(M.P.C)",
+      "institute":"Sri Chaitanya Junior College",
+      "data":["2013-15","92.4%"]
+    },
+    {
+      "degree":"SSC",
+      "institute":"Akshara International",
+      "data":["2012-13","98%"]
+    }
+  ],
+  "skills":[
+    {
+    "title":"Programming Languages",
+    "set":["Java","C","Python"]
+  },
+
+  {
+  "title":"Web Technologies",
+  "set":["JavaScript","CSS","HTML"]
+},
+{
+"title":"Data Bases",
+"set":["SQL","mysql","Oracle"]
+},
+{
+"title":"Operating Systems",
+"set":["Windows","DOS","Linux","Mac"]
+}
+],
+  "achievements":[
+    {
+      "achievedData":"Got 1st Prize in PPT presentation."
+
+    },{
+    "achievedData":"Got 1st Prize in Debate."
+  }
+]
+}
